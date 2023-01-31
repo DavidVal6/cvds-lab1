@@ -30,3 +30,7 @@ Actualmente vivo en Bogota, ya que estoy estudiando en la *Escuela Colombiana de
 ```
 "¡Hola, Mundo!"
 ```
+
+## Imagenes de tutorial de git
+![image](completandoejercicios_parte1.jpeg)\
+![image](completandoejercicios_parte2.jpeg)\
