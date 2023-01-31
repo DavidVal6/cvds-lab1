@@ -28,3 +28,6 @@
         cout<<"Hola mundo"<<endl;
     }
 ```
+## Imagen de tutorial de GIT
+![image](p1.png)\
+![image](p2.png)
